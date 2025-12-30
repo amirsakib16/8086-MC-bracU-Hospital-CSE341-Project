@@ -195,3 +195,28 @@ CSE Student | Systems & AI Enthusiast
 ## ⭐ Acknowledgment
 
 This project is designed for educational purposes to demonstrate how real-world systems can be implemented at the **hardware-near software layer** using pure assembly language.
+
+
+## 🖼️ Screenshots
+
+### System Walkthrough
+
+![Start Screen](images/001.png)
+![Main Menu](images/002.png)
+![User Registration](images/003.png)
+![Admin Role Assignment](images/004.png)
+![Login Page](images/005.png)
+![Admin Dashboard](images/006.png)
+![Patient Dashboard](images/007.png)
+![Appointment Request](images/008.png)
+![Admin Reviews Appointment](images/009.png)
+![Appointment Approved](images/010.png)
+![Appointment Rejected](images/011.png)
+![Waiting Room Queue](images/012.png)
+![Patient Served](images/013.png)
+![Reverse Queue](images/014.png)
+![Cancel All Appointments](images/015.png)
+![User Not Found Error](images/016.png)
+![Program Exit](images/017.png)
+![Program DONE Exit](images/018.png)
+
